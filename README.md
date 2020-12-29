@@ -1,8 +1,8 @@
 ## I'm a Self-learner to Developer
 
-- Business & big picture mindset
 - History & book lover
 - 2021 Goals: Backend development projects, ecommerce
+- Big picture mindset
 
 
 ### Connect with me:
