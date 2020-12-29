@@ -1,6 +1,3 @@
-### My name is Alex, I'm a Front-End Developer
-
-
 ## I'm a Self-learner to Developer
 
 - Business & big picture Mindset
