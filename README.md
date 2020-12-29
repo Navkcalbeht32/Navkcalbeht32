@@ -1,4 +1,4 @@
-## I'm a Self-learner to Developer
+## I'm a Self-learner, Developer, & Navigator of all technology
 
 - 2021 Goals: Backend development projects, ecommerce
 - Big picture mindset
