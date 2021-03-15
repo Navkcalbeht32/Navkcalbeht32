@@ -1,7 +1,7 @@
 ## I'm a Self-learner, Developer, & Navigator of web technology
 
 - 2021 Goals: Backend development projects, ecommerce
-- UX/UI Designer, Front-End
+- UX/UI Designer, Front-End & Back-End Development
 - Big picture mindset
 - History & book lover
 
